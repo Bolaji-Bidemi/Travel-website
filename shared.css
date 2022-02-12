@@ -50,7 +50,7 @@ header a{
         background-color: rgb(255, 251, 0);
     }
     footer{
-        background: linear-gradient(0deg, rgb(24,24,24), rgb(25, 29, 29));
+        background: linear-gradient(0deg, rgb(0,0,0), rgb(0, 0, 0));
         padding: 36px 0;
     }
     footer ul{
